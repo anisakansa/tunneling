@@ -1,11 +1,11 @@
-name = "joy"
+name = "cf-worker-ws-dev"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 # node_compat = true
 workers_dev = true
 
 [vars]
-# PROXYIP = "45.135.228.249"
+# PROXYIP = "103.119.54.24"
 UUID = "80e73d4e-e153-43f6-ad7e-360d96aec79e"
 # SOCKS5 = "127.0.0.1:1080"
 # SOCKS5_RELAY = "true"
